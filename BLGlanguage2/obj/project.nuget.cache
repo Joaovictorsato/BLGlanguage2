@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "clVSixTIFcY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cabec\\Downloads\\BLG-Compiler-main\\BLG-Compiler-main\\C#-Aula\\compilers-final-work\\compilers-final-work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cabec\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\cabec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\cabec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\cabec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\cabec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
