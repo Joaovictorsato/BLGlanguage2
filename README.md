@@ -9,7 +9,7 @@ Estruturas de controles:
 5. Laço DO-WHILE
 6. Estrutura de Decisão IF-ELSE
 
-Exemplo de Programa:
+#Exemplo de Programa:
 
 function multiplicacao(num1, num2, num3) {
     write num1 * num2 / num3;
@@ -86,7 +86,7 @@ if (x > y) {
     }
 }
 
-Para Compilar: 
+#Para Compilar: 
 utilize o seguinte comando:
 
 antlr4 -package Grammar -visitor -Dlanguage=CSharp -o Grammar/ Lang.g4
